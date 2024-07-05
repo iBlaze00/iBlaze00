@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iBlaze00
-- 👀 I’m interested in ... FrontEnd Web Development
-- 🌱 I’m currently learning ... Javascript
+- 👀 I’m interested in ... Software Development
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
