@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iBlaze00
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+
 
 <!---
 iBlaze00/iBlaze00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
